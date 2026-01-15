@@ -3,3 +3,4 @@ senin
 rabu
 kamis
 jumat
+sabtu
