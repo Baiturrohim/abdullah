@@ -2,3 +2,4 @@ jadwal belajar:
 senin
 rabu
 kamis
+jumat
